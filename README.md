@@ -1,2 +1,2 @@
-# proyectos
+# Proyectos
 Trabajos
