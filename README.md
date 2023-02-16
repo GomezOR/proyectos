@@ -1,2 +1,2 @@
 # Proyectos
-Trabajos
+Trabajos en clase
